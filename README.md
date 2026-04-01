@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Akhlaque%20Hussain&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Akhlaque%20Hussain&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">💻 Software Engineer | DSA • Backend • Penetration Testing</h3>
+<h3 align="center">💻 Software Engineer | DSA • Backend • Pentesting</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real+World+Projects;DSA+Daily+Practice;Future+Top+Engineer" />
+</p>
 
 ---
 
 ## 👨‍💻 About
 
 - 🎓 B.Tech Student  
-- ⚡ Focused on mastering Data Structures & Algorithms  
-- 🚀 Building real-world projects  
-- 🎯 Goal: Top-tier software engineer  
+- ⚡ Focused on mastering **Data Structures & Algorithms**  
+- 🚀 Building **real-world scalable projects**  
+- 🎯 Goal: Crack top tech companies  
 
 ---
 
-## 🧠 Stack
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,git&theme=dark" />
@@ -23,7 +27,7 @@
 
 ---
 
-## 🚀 Work
+## 🚀 Featured Work
 
 <p align="center">
   <a href="https://github.com/akhlaque78692/ai-disk-scheduler">
@@ -36,7 +40,7 @@
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=akhlaque78692&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -45,11 +49,27 @@
 
 ---
 
-## 🎯 Focus
+## 📈 Contribution Activity
 
-- 🧩 DSA Problem Solving  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhlaque78692&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (AUTO ANIMATION)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akhlaque78692/akhlaque78692/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🧩 DSA (LeetCode / Problem Solving)  
 - ⚙️ Backend Development  
-- 📈 System Design  
+- 📚 System Design  
 
 ---
 
@@ -62,6 +82,10 @@
 </p>
 
 ---
+
+<p align="center">
+  ⚡ "Stay consistent. Results will follow."
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=120&section=footer"/>
