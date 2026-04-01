@@ -1,10 +1,38 @@
-- 👋 Hi, I’m Akhlaque Hussain 
-- 👀 I’m interested in conding programming 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on dsa pro
-- 📫 How to reach me on Instagram 
+# Hi 👋, I'm Akhlaque Hussain
 
-<!---
-akhlaque78692/akhlaque78692 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate Developer | AI + Web Projects  
+
+---
+
+## 🔥 Projects
+
+### 🧠 AI Disk Scheduling Optimizer
+🔗 https://github.com/akhlaque78692/ai-disk-scheduler  
+
+- Optimized disk scheduling using ML  
+- Improved performance over FCFS, SSTF, SCAN  
+
+---
+
+### 📊 Real-Time System Monitoring Dashboard
+🔗 https://github.com/akhlaque78692/system-monitor-dashboard  
+
+- Live CPU, Memory, Disk tracking  
+- Built with Flask, WebSockets, Plotly  
+
+---
+
+## 🧠 Skills
+
+- 💻 Languages: Python, Java, JavaScript  
+- ⚙️ Tech: Flask, ML, WebSockets  
+- 📊 Concepts: DSA, OS, System Design  
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/akhlaque78692
+
+---
+⭐ Always learning and building real-world projects!
