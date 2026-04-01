@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Akhlaque%20Hussain&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h3 align="center">💻 Aspiring Software Engineer | DSA • Backend • ML</h3>
+<h3 align="center">💻 Software Engineer | DSA • Backend • Penetration Testing</h3>
 
 ---
 
